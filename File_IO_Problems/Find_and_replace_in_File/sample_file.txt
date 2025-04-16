@@ -1,0 +1,5 @@
+Hello, this is a example text file.
+It contains some words that we might want to replace.
+For example, we could replace "example" with another word.
+This is just an example to demonstrate the find and replace functionality.
+The word "replace" is another word we can search for and replace.

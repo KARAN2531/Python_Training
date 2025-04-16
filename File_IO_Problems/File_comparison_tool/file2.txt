@@ -1,0 +1,4 @@
+Hello, this is file two.
+This line is only in file two.
+Another line in file one.
+Goodbye from file two.

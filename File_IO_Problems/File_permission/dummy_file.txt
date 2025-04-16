@@ -1,0 +1,3 @@
+This is a dummy file to test file permissions.
+It can be used to check if the script correctly identifies file permissions.
+You can try to modify the file permissions to check different scenarios.

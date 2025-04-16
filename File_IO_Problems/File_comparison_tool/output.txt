@@ -1,0 +1,12 @@
+Line 1:
+File1: Hello, this is file one.
+File2: Hello, this is file two.
+
+Line 2:
+File1: This line is only in file one.
+File2: This line is only in file two.
+
+Line 4:
+File1: Goodbye from file one.
+File2: Goodbye from file two.
+

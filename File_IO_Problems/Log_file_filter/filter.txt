@@ -1,0 +1,3 @@
+ERROR Failed to connect to the database
+ERROR Timeout while communicating with the server
+ERROR Unable to load configuration file

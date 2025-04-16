@@ -1,0 +1,9 @@
+INFO User logged in successfully
+WARNING Disk space is running low
+ERROR Failed to connect to the database
+INFO File uploaded successfully
+ERROR Timeout while communicating with the server
+WARNING High memory usage detected
+INFO User logged out
+ERROR Unable to load configuration file
+INFO Backup completed successfully

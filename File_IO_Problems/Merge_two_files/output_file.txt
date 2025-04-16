@@ -1,0 +1,4 @@
+Hello World
+Python is fun
+Merging files
+are cool
